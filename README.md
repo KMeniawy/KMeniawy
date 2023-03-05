@@ -38,10 +38,12 @@
 
 
 # 📊 GitHub Stats:
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KMeniawy&theme=bear&hide_border=true&include_all_commits=false&count_private=false" align="center" /></div> 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KMeniawy&theme=bear&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMeniawy&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>  
 
-![](https://github-readme-stats.vercel.app/api?username=KMeniawy&theme=bear&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KMeniawy&theme=bear&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KMeniawy&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <br/>
 
