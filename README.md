@@ -37,8 +37,10 @@
 
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KMeniawy&show_icons=true&count_private=true&hide_border=true&theme=bear" align="center" /></div>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KMeniawy&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KMeniawy&theme=bear&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KMeniawy&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
