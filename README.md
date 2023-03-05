@@ -35,6 +35,13 @@
 <br/>  
 
 
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KMeniawy&show_icons=true&count_private=true&hide_border=true&theme=bear" align="center" /></div>  
+
+<br/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -94,8 +101,5 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KMeniawy&show_icons=true&count_private=true&hide_border=true&theme=bear" align="center" /></div>  
 
 
