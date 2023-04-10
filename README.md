@@ -1,7 +1,8 @@
 <br/>  
 
 <div align="center">
-  <h2>Hello there</h2>
+  <h1>Hey, my name is Karim</h1> <span>and I'm</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=0694D6&center=true&vCenter=true&width=940&lines=Frontend+Developer" align="middle" alt="Frontend Developer" width="100%"/>
 </div>  
 
 <br/>  
