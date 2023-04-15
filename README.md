@@ -12,8 +12,6 @@
 </div>  
 
 <br/>
-
-### <div align="center">I'm Karim, Front-end 💻 & UI/UX 🖌️ Developer from Egypt</div>  
   
 
 <div align="center">
