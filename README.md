@@ -2,7 +2,8 @@
 
 <div align="center">
   <h1>Hey, my name is Karim</h1> <span>and I'm a</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=0694D6&center=true&vCenter=true&width=940&lines=Frontend+Developer" align="middle" alt="Frontend Developer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Opensans&weight=600&size=24&duration=4950&pause=1000&color=0694D6&&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI/UX+Designer" align="middle" alt="Frontend Developer" width="100%"/>
+  
 </div>  
 
 <br/>  
@@ -19,16 +20,19 @@
 </div>  
   
 
-- 🔭 I’m studying currently in ITI (Information Technology Institute) Track Web & User Interface.  
+- 📄 Intake **43 ITI** (Information Technology Institute) **Track Web & User Interface**.  
   
 
-- ❓ Ask me about anything related to MERN stack or UI/UX topics  
+- ❓ Ask me about anything related to **MERN stack** or **UI/UX topics**  
   
 
-- 🌱 I’m currently learning React  
-  
+- 🌱 I’m currently learning **React**  
 
-- 💭 "Journey before Destination"  
+
+- 🔭 I’m looking to collaborate on **Frontend Projects**
+
+
+- 💭 **"Journey before Destination"**  
   
 
 <br/>  
@@ -64,6 +68,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=d1d1d1" alt="express" width="40" height="40"/> </a>          
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <br/>
