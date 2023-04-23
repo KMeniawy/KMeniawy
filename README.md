@@ -20,7 +20,7 @@
 </div>  
   
 
-- 📄 Intake **43 ITI** (Information Technology Institute) **Track Web & User Interface**.  
+- 📄 Intake 43 **ITI** (Information Technology Institute) Track **Web & User Interface Development**.  
   
 
 - ❓ Ask me about anything related to **MERN stack** or **UI/UX topics**  
