@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hey, my name is Karim</h1> <span>and I'm a</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Opensans&weight=600&size=24&duration=4950&pause=1000&color=0694D6&&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI/UX+Designer" align="middle" alt="Frontend Developer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Opensans&weight=600&size=24&duration=4950&pause=1000&color=638FDA&&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI/UX+Designer" align="middle" alt="Frontend Developer" width="100%"/>
   
 </div>  
 
