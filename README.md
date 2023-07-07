@@ -47,15 +47,11 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KMeniawy&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" align="center"/>
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMeniawy&theme=midnight-purple&hide_border=true" align="center" />
 </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMeniawy&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="center"/>
-</div>
+
 
 
 
