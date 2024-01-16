@@ -26,7 +26,7 @@
 - ❓ Ask me about anything related to **MERN stack** or **UI/UX topics**  
   
 
-- 🌱 I’m currently learning **Node.JS**  
+- 🌱 I’m currently learning **Node JS**  
 
 
 - 🔭 I’m looking to collaborate on **Full-Stack Projects**
