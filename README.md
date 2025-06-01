@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hey, my name is Karim</h1> <span>and I'm a</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Opensans&weight=600&size=24&duration=4950&pause=1000&color=9745F5&&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" align="middle" alt="Full-Stack Developer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Opensans&weight=600&size=24&duration=4950&pause=1000&color=9745F5&&center=true&vCenter=true&width=435&lines=Front-End+Developer" align="middle" alt="Full-Stack Developer" width="100%"/>
   
 </div>  
 
@@ -26,7 +26,7 @@
 - ❓ Ask me about anything related to **Web Development**  
   
 
-- 🌱 I’m currently learning **Nest JS**  
+- 🌱 I’m currently learning **Next JS**  
 
 
 - 🔭 I’m looking to collaborate on **Full-Stack Projects**
