@@ -33,9 +33,6 @@
 
 
 - 💭 **"Journey before Destination"**
-
-
-- 📫 How to reach me **karim.elmeniawy.99@gmail.com**
   
 
 <br/>  
