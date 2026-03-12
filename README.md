@@ -8,9 +8,9 @@
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KMeniawy&&style=flat-square" align="center" />
-</div>  
+</div>   -->
 
 <br/>
   
@@ -85,7 +85,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/in/karim-el-meniawy-a3036a1ba" target="_blank">
+<a href="https://www.linkedin.com/in/karim-ibrahim-mostafa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@kmeniawy/featured" target="_blank">
