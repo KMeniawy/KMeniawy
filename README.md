@@ -1,53 +1,11 @@
-<br/>  
 
-<div align="center">
-  <h1>Hey, my name is Karim</h1> <span>and I'm a</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Opensans&weight=600&size=24&duration=4950&pause=1000&color=9745F5&&center=true&vCenter=true&width=435&lines=Front-End+Developer" align="middle" alt="Full-Stack Developer" width="100%"/>
-  
-</div>  
 
 <br/>  
-
-<!-- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=KMeniawy&&style=flat-square" align="center" />
-</div>   -->
-
-<br/>
-  
 
 <div align="center">
 <img src="https://github.com/KMeniawy/KMeniawy/blob/main/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-- 📄 Intake 43 **ITI** (Information Technology Institute) Track **Web & User Interface Development**.  
-  
-
-- ❓ Ask me about anything related to **Web Development**  
-  
-
-- 🌱 I’m currently learning **Next JS**  
-
-
-- 🔭 I’m looking to collaborate on **Full-Stack Projects**
-
-
-- 💭 **"Journey before Destination"**
-  
-
-<br/>  
-
-
-
-
-
-
-# 📊 GitHub Stats:
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMeniawy&theme=midnight-purple&hide_border=true" align="center" />
-</div>
 
 
 
